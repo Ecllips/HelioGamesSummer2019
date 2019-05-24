@@ -26,7 +26,3 @@ sysinfo.txt
 *.DS_Store
 *.dll
 *.vs
-
-
-*.dll
-*.meta
